@@ -3,6 +3,14 @@
 
 7.26更新1.0版本，内置曲库仅有Phigros与Arcaea
 
+--------------------------------------------------
+
+8.19更新1.1r版本，追加了Rizline,范式：起源,RYCEAM曲库
+
+（喵斯和Dynamix的曲库已经在写了）
+
+--------------------------------------------------
+
 完整版曲库将含有：Phigros,Arcaea,MuseDash,Lanota,Orzmic,击中萌，SDVX，Dynamix,Cytus&CytusII,Deemo,Dancerail3,TAKUMI3,范式：起源,Rizline 等
 
 PJSK可能会加，但是几乎全假名作用应该不大（？
