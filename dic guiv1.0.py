@@ -7,7 +7,6 @@ class Dictionary:
         self.word_list = {}
 
         # 初始化词库
-        self.add_word("原神启动", "IDKWHATSTHIS")
         self.add_word("Glaciaxion", "Phigros")
         self.add_word("Eradication Catastrophe", "Phigros")
         self.add_word("Credits", "Phigros")
